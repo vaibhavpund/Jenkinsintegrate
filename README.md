@@ -4,11 +4,10 @@ I have automated it
 
 
 
-H
+
 
 
 F
-F
 
 
 
@@ -16,7 +15,8 @@ F
 
 
 
-B
+
+the way i wanTB
 
 
 
