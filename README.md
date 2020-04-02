@@ -1,7 +1,4 @@
-
-i
-B
-B
+Y change is not added
 
 Now it is gone
 I have automated it
